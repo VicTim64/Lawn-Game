@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LawnGame", "LawnGame\LawnGame.vcxproj", "{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Debug|Win32.Build.0 = Debug|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Debug|x64.ActiveCfg = Debug|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Debug|x64.Build.0 = Debug|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Debug|x86.Build.0 = Debug|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Release|Win32.ActiveCfg = Release|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Release|Win32.Build.0 = Release|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Release|x64.ActiveCfg = Release|x64
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Release|x64.Build.0 = Release|x64
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Release|x86.ActiveCfg = Release|Win32
+		{5E5B709A-D3AA-4DB8-A2ED-498D7FB57EAA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6B9DC65-3B88-4D57-8192-7274A48CB83D}
+	EndGlobalSection
+EndGlobal

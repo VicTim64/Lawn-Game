@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{93fa4c82-d3a3-4a60-a730-d9c8a4967b03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures">
+      <UniqueIdentifier>{f26b8aac-e08b-4b41-ad9c-f304a0aa465c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pool_balls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FragmentSH.frag">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="VertexSH.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Ball1.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball2.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball3.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball4.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball5.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball6.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball7.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball8.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball9.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball10.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball11.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball12.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball13.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball14.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Ball15.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="BallCue.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="pool_table.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="cue_texture.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Monitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
